@@ -1,3 +1,3 @@
-# MACT6340
+# cmcrews-main
 
-Web3 project for MACT 6340 class.
+Main website for Courtney Crews. Was Web3 project for MACT 6340 class.
